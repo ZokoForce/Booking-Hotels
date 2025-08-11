@@ -1,0 +1,14 @@
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\Booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\Booking.AssemblyInfoInputs.cache
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\Booking.AssemblyInfo.cs
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\Booking.csproj.CoreCompileInputs.cache
+D:\Booking\Booking-Hotels\Booking\Booking\bin\Debug\net8.0\Booking.exe
+D:\Booking\Booking-Hotels\Booking\Booking\bin\Debug\net8.0\Booking.deps.json
+D:\Booking\Booking-Hotels\Booking\Booking\bin\Debug\net8.0\Booking.runtimeconfig.json
+D:\Booking\Booking-Hotels\Booking\Booking\bin\Debug\net8.0\Booking.dll
+D:\Booking\Booking-Hotels\Booking\Booking\bin\Debug\net8.0\Booking.pdb
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\Booking.dll
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\refint\Booking.dll
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\Booking.pdb
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\Booking.genruntimeconfig.cache
+D:\Booking\Booking-Hotels\Booking\Booking\obj\Debug\net8.0\ref\Booking.dll
